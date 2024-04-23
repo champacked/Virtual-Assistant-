@@ -10,7 +10,7 @@ import smtplib
 print("Initializing Jarvis")
 
 
-MASTER = "Madhu Saini"
+MASTER = "Aman Verma"
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
 
